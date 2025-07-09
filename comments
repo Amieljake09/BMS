@@ -1,0 +1,6 @@
+please gawan mo nga ako ng resident management/resident_management.php para sa lahat ng information
+ ng mga resident po, i have two tables ito ay ang users at residents table, 
+ sa users po ay may full_name, email, role (kuhanin lamang ang may role na resident) // 
+ at para naman sa residents table ay dob, pob, age, gender, civil_status, nationality, 
+ religion, address, phone, res_email, resident_type, stay_length, proof, date_registered, 
+ employment_status, and here na rin po ang code po ng resident_management.php :
